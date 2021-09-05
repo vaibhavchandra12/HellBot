@@ -7,7 +7,7 @@ RUN git clone https://github.com/TheVaders/InVade.git /root/hellbot
 WORKDIR /root/hellbot
 
 # Install requirements
-RUN pip3 install -U -r requirements.txt
+RUN pip3 install requirements.txt
 
 ENV PATH="/home/userbot/bin:$PATH"
 
