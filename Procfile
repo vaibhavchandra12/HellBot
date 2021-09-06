@@ -1,1 +1,1 @@
-web: bash Hellbot
+worker: bash Hellbot
