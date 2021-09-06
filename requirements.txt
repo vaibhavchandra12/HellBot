@@ -27,6 +27,7 @@ lottie
 lyricsgenius
 nekos.py
 opencv-python--headless
+patool
 Pillow
 prettytable
 psutil
@@ -60,5 +61,6 @@ wand
 wget
 wheel
 wikipedia
+youtube-search
 youtube-search-python
 youtube_dl
