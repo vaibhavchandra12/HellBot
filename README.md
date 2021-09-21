@@ -54,7 +54,7 @@
 - Get all the necessary variables and deploy on railway.
 - Every mandatory variables are listed [Here](#Variables).
 - Please note that some commands (Mostly Heroku Based Commands) are not supported for railways yet. Don't worry!! I'll port them in next update. Stay tuned !!
-- [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FHellBoy-OP%2FHellBot&plugins=postgresql&envs=APP_ID%2CAPI_HASH%2CHELLBOT_SESSION%2CBOT_TOKEN%2CBOT_USERNAME%2CLOGGER_ID&APP_IDDesc=Get+it+from+my.telegram.org%2Fapi&API_HASHDesc=Get+it+from+my.telegram.org%2Fapi&HELLBOT_SESSIONDesc=Make+a+string+session+and+paste+it+here.+See+repo+for+more+details.&BOT_TOKENDesc=Make+a+bot+from+%40botfather+and+paste+the+token+here&BOT_USERNAMEDesc=Paste+the+username+of+bot+created+by+%40Botfather&LOGGER_IDDesc=Make+a+private+channel+and+get+it%27s+id+from+%40Hell_id_bot+and+paste+that+id+here&referralCode=HELLBOT_IS_LIT)
+- [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/vaibhavchandra12/HellBot&plugins=postgresql&envs=APP_ID%2CAPI_HASH%2CHELLBOT_SESSION%2CBOT_TOKEN%2CBOT_USERNAME%2CLOGGER_ID&APP_IDDesc=Get+it+from+my.telegram.org%2Fapi&API_HASHDesc=Get+it+from+my.telegram.org%2Fapi&HELLBOT_SESSIONDesc=Make+a+string+session+and+paste+it+here.+See+repo+for+more+details.&BOT_TOKENDesc=Make+a+bot+from+%40botfather+and+paste+the+token+here&BOT_USERNAMEDesc=Paste+the+username+of+bot+created+by+%40Botfather&LOGGER_IDDesc=Make+a+private+channel+and+get+it%27s+id+from+%40Hell_id_bot+and+paste+that+id+here&referralCode=HELLBOT_IS_LIT)
 
 ------
 ## Deploy Locally
